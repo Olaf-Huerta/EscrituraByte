@@ -1,0 +1,7 @@
+C:\Users\OCELOT\Desktop\Escuela\SEMESTRE 2\u5\EscrituraByte\bin\Debug\EscrituraByte.exe.config
+C:\Users\OCELOT\Desktop\Escuela\SEMESTRE 2\u5\EscrituraByte\bin\Debug\EscrituraByte.exe
+C:\Users\OCELOT\Desktop\Escuela\SEMESTRE 2\u5\EscrituraByte\bin\Debug\EscrituraByte.pdb
+C:\Users\OCELOT\Desktop\Escuela\SEMESTRE 2\u5\EscrituraByte\obj\Debug\EscrituraByte.csproj.AssemblyReference.cache
+C:\Users\OCELOT\Desktop\Escuela\SEMESTRE 2\u5\EscrituraByte\obj\Debug\EscrituraByte.csproj.CoreCompileInputs.cache
+C:\Users\OCELOT\Desktop\Escuela\SEMESTRE 2\u5\EscrituraByte\obj\Debug\EscrituraByte.exe
+C:\Users\OCELOT\Desktop\Escuela\SEMESTRE 2\u5\EscrituraByte\obj\Debug\EscrituraByte.pdb
